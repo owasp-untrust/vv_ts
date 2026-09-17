@@ -1,0 +1,1 @@
+{"compilerOptions":{"target":"ES2022","module":"NodeNext","moduleResolution":"NodeNext","strict":true,"exactOptionalPropertyTypes":true,"declaration":true,"declarationMap":true,"sourceMap":true,"composite":true,"skipLibCheck":true,"baseUrl":".","paths":{"@untrust/vv":["packages/vv/src/index.ts"]}}}

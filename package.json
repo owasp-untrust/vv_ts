@@ -1,0 +1,1 @@
+{"name":"vv-ts-workspace","private":true,"type":"module","engines":{"node":">=18"},"workspaces":["packages/*"],"scripts":{"build":"tsc -b","test":"npm run build && vitest run --config vitest.config.ts && npm run test:types","test:types":"tsc -p test-types/tsconfig.json --noEmit"},"devDependencies":{"typescript":"^5.8.0","vitest":"^3.2.0"}}
